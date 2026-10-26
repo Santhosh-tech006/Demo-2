@@ -1,0 +1,6 @@
+{
+  "name": "Checkmate City Academy",
+  "description": "Premier 3D Chess Academy offering elite coaching, interactive grandmaster curriculum, and tournament mastery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
